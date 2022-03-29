@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<produtos>
+    <produto id="1"/>
+    <Nome>fernando</Nome>
+    <Categoria>21</Categoria>
+    <Marcas>
+        <Marca>12</Marca>
+        <Preco>12.0</Preco>
+    </Marcas>
+</produtos>
